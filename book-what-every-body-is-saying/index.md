@@ -1,11 +1,10 @@
 ---
 layout: post
-title: "Picks / what the vienna.rb team thinks is worth sharing this week"
-date: 2013-11-06 10:00
-published: true
-comments: true
+title: "What Every BODY is Saying"
+date: 2014-02-27
 categories:
-  - picks
+  - notes
+  - books
 ---
 
 
