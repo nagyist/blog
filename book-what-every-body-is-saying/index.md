@@ -1,3 +1,14 @@
+---
+layout: post
+title: "Picks / what the vienna.rb team thinks is worth sharing this week"
+date: 2013-11-06 10:00
+published: true
+comments: true
+categories:
+  - picks
+---
+
+
 # BOOK: What Every BODY is Saying
 
 ***
