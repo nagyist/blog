@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "What Every BODY is Saying"
 date: 2014-02-27
 categories:

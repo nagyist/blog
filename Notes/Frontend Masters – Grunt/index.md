@@ -1,3 +1,11 @@
+---
+title: Workflows and Tooling with Grunt and Beyond
+origin: https://frontendmasters.com/courses/workflows-and-tooling/
+date: 2014-03-14
+categories:
+  - javascript
+---
+
 
 Author: **David Mosher**
 
