@@ -1,3 +1,5 @@
+![](assets/preferences.gif)
+
 I wanted to summarize which Webstorm features I'm not using, but after 1 hour I got so tired.
 Webstorm has so many options that my option is to leave it.
 
