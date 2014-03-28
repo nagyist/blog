@@ -114,7 +114,27 @@ Manages interpolation services (you can implement your own instead Angular’s o
   
 
 
-![](assets/Pascal%20Precht%20-%20i18n%20with%20angular-translate%20-%20Dutch%20AngularJS%20Meetup%20-%20YouTube%202014-03-28%2016-07-00%202014-03-28%2016-07-01.png)![](assets/3335f60cf20ead22.png)  
+  
+
+
+![](assets/5140201bc2951ad6.png)
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+![](assets/3335f60cf20ead22.png)  
+
+
+  
 
 
   
@@ -131,13 +151,24 @@ Translations tables are plain JS hash objects.
   
 
 
+  
+
+
 ![](assets/937eb5494685976b.png)  
 
 
   
 
 
-![](assets/Pascal%20Precht%20-%20i18n%20with%20angular-translate%20-%20Dutch%20AngularJS%20Meetup%20-%20YouTube%202014-03-28%2016-12-48%202014-03-28%2016-12-48.png)![](assets/8c610cfb46fd6696.png)  
+  
+
+
+![](assets/8fe217ae98b25c7f.png)
+
+  
+
+
+![](assets/8c610cfb46fd6696.png)  
 
 
   
