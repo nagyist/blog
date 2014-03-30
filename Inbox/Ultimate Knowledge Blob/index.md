@@ -36,3 +36,5 @@ Manage projects, not people. Manage tasks, not work routine.
 Do not manage, guide.
 
 I want to make web apps, not to write software.
+
+Failure – Don't fear it. Embrace it. Learn from it. Try it again. Learn from it. Share your story. Learn from it. Try again.
