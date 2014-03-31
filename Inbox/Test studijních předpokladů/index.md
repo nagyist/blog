@@ -26,22 +26,22 @@ Starsi rocniky - zadani a reseni
 ### http://www.muni.cz/tsp/numericke
 Numerické myšlení
 
-* [ ] Určování části z celku
-* [ ] Uspořádání čísel
-* [ ] Slovní úlohy
-* [ ] Řady
-* [ ] Ciferné součty
-* [ ] Operace
-* [ ] Dělitelnost
-* [ ] Logaritmus
-* [ ] Rovnice
-* [ ] Stejné součty
-* [ ] Odhalení chyby
-* [ ] Šifra
-* [ ] Řetězec rovnic
-* [ ] Propletené řady
+* [x] Určování části z celku
+* [x] Uspořádání čísel
+* [x] Slovní úlohy
+* [x] Řady
+* [x] Ciferné součty
+* [x] Operace
+* [x] Dělitelnost
+* [x] Logaritmus
+* [x] Rovnice
+* [x] Stejné součty
+* [x] Odhalení chyby
+* [x] Šifra
+* [x] Řetězec rovnic
+* [x] Propletené řady
 * [ ] Symboly v rovnicích
-* [ ] Aplikace definic I.
+* [x] Aplikace definic I.
 * [ ] Aplikace definic II.
 * [ ] Porovnávání
 * [ ] Celek a části
