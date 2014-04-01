@@ -50,19 +50,19 @@ Numerické myšlení
 ### http://www.muni.cz/tsp/kulturni
 Kulturní přehled
 
-* [ ] Cizojazyčná ukázka - písmo
-* [ ] Pojmy, cizí slova
-* [ ] Latinské přísloví
-* [ ] Kultura - výtvarné umění
-* [ ] Geografie - Evropa
-* [ ] Dějinné události
-* [ ] Náboženství
-* [ ] Osobnosti - svět
-* [ ] Osobnosti - ČR
-* [ ] Geografie - svět
-* [ ] Kulturní epocha
-* [ ] Mezinárodní organizace
-* [ ] Kultura - hudba
+* [x] Cizojazyčná ukázka - písmo
+* [x] Pojmy, cizí slova
+* [x] Latinské přísloví
+* [x] Kultura - výtvarné umění
+* [x] Geografie - Evropa
+* [x] Dějinné události
+* [x] Náboženství
+* [x] Osobnosti - svět
+* [x] Osobnosti - ČR
+* [x] Geografie - svět
+* [x] Kulturní epocha
+* [x] Mezinárodní organizace
+* [x] Kultura - hudba
 
 
 ### http://www.muni.cz/tsp/symbolicke
@@ -115,20 +115,20 @@ Analytické myšlení
 ### http://www.muni.cz/tsp/kriticke
 Kritické myšlení
 
-* [ ] Přírodověda – živá příroda
-* [ ] Přírodověda – neživá příroda 1
-* [ ] Přírodověda – neživá příroda 2
-* [ ] Vědy o Zemi 1
-* [ ] Vědy o Zemi 2
-* [ ] Technika
-* [ ] Lidský organismus, zdraví
-* [ ] Interpretace předpisů
-* [ ] Orientace
-* [ ] Věda v umění a sportu
-* [ ] Člověk a informace 1
-* [ ] Člověk a informace 2
-* [ ] Člověk a volný čas 1
-* [ ] Člověk a volný čas 2
+* [x] Přírodověda – živá příroda
+* [x] Přírodověda – neživá příroda 1
+* [x] Přírodověda – neživá příroda 2
+* [x] Vědy o Zemi 1
+* [x] Vědy o Zemi 2
+* [x] Technika
+* [x] Lidský organismus, zdraví
+* [x] Interpretace předpisů
+* [x] Orientace
+* [x] Věda v umění a sportu
+* [x] Člověk a informace 1
+* [x] Člověk a informace 2
+* [x] Člověk a volný čas 1
+* [x] Člověk a volný čas 2
 
 
 ### http://www.muni.cz/tsp/prostorove
@@ -158,14 +158,14 @@ Prostorová představivost
 ### http://www.muni.cz/tsp/verbalni
 Verbální myšlení
 
-* [ ] Skládání slov
-* [ ] Dokonavost a nedokonavost
-* [ ] Kvantifikátory
-* [ ] Slovesné rody a významy
-* [ ] Významové vztahy
-* [ ] Víceznačnosti 1
-* [ ] Víceznačnosti 2
-* [ ] Pravdivost vzhledem k významu
+* [x] Skládání slov
+* [x] Dokonavost a nedokonavost
+* [x] Kvantifikátory
+* [x] Slovesné rody a významy
+* [x] Významové vztahy
+* [x] Víceznačnosti 1
+* [x] Víceznačnosti 2
+* [x] Pravdivost vzhledem k významu
 
 
 ## http://is.muni.cz/prihlaska/faq.pl
