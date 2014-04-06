@@ -11,5 +11,5 @@ Run like <code>$ project blog</code> or <code>$ project wisdom</code>
 
 [gist url="https://gist.github.com/Strajk/7738793"]
 
-## Working window layout
+## Working window layoutw
 
