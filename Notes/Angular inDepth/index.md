@@ -41,21 +41,21 @@ video games and GPUs use the dirty-checking approach, specifically because it is
 $digest processes all the watchExpressions for the current scope and its children.
 
 
-[AngularJS Sticky Notes Pt 1 – Architecture](http://onehungrymind.com/angularjs-sticky-notes-pt-1-architecture/)
+#### AngularJS – Handy Tricks With Developer Tools
+http://onehungrymind.com/angularjs-handy-tricks-with-developer-tools/
 
-[AngularJS Sticky Notes Pt 2 – Isolated Scope](http://onehungrymind.com/angularjs-sticky-notes-pt-2-isolated-scope/)
+Outline .ng-scope, .ng-binging
 
-[AngularJS – Handy Tricks With Developer Tools](http://onehungrymind.com/angularjs-handy-tricks-with-developer-tools/)
+Get scope
+$sc = angular.element($0).scope();
 
-[AngularJS and DOM Manipulation](http://onehungrymind.com/angularjs-and-dom-manipulation/)
+Get service
+$se = angular.element('html').injector().get('');
 
-[AngularJS – Communicating Between Controllers](http://onehungrymind.com/angularjs-communicating-between-controllers/)
-
-[Building a Website with AngularJS – Routes and Partials](http://onehungrymind.com/building-a-website-with-angularjs-routes-and-partials/)
-
+Get controller
+$sc = angular.element($0).controller();
 
 [Lukas Ruebbelke (simpulton) on Twitter](https://twitter.com/simpulton)
-
 
 ![](assets/ca2156ef220a891e.png)  
 
@@ -121,9 +121,7 @@ One service per injector.
 
 #### My review:
 
-It was sooo bad.
-
-Teacher cannot answer no question.
+It was sooo bad. Teacher cannot answer no question.
 
 Full of, kinda, empty, in a manner, words, essentially.
 
