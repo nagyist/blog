@@ -26,58 +26,58 @@ Starsi rocniky - zadani a reseni
 ### http://www.muni.cz/tsp/numericke
 Numerické myšlení
 
-* [ ] Určování části z celku
-* [ ] Uspořádání čísel
-* [ ] Slovní úlohy
-* [ ] Řady
-* [ ] Ciferné součty
-* [ ] Operace
-* [ ] Dělitelnost
-* [ ] Logaritmus
-* [ ] Rovnice
-* [ ] Stejné součty
-* [ ] Odhalení chyby
-* [ ] Šifra
-* [ ] Řetězec rovnic
-* [ ] Propletené řady
-* [ ] Symboly v rovnicích
-* [ ] Aplikace definic I.
-* [ ] Aplikace definic II.
-* [ ] Porovnávání
-* [ ] Celek a části
-* [ ] Posloupnost
+* [x] Určování části z celku
+* [x] Uspořádání čísel
+* [x] Slovní úlohy
+* [x] Řady
+* [x] Ciferné součty
+* [x] Operace
+* [x] Dělitelnost
+* [x] Logaritmus
+* [x] Rovnice
+* [x] Stejné součty
+* [x] Odhalení chyby
+* [x] Šifra
+* [x] Řetězec rovnic
+* [x] Propletené řady
+* [x] Symboly v rovnicích
+* [x] Aplikace definic I.
+* [x] Aplikace definic II.
+* [x] Porovnávání
+* [x] Celek a části
+* [x] Posloupnost
 
 ### http://www.muni.cz/tsp/kulturni
 Kulturní přehled
 
-* [ ] Cizojazyčná ukázka - písmo
-* [ ] Pojmy, cizí slova
-* [ ] Latinské přísloví
-* [ ] Kultura - výtvarné umění
-* [ ] Geografie - Evropa
-* [ ] Dějinné události
-* [ ] Náboženství
-* [ ] Osobnosti - svět
-* [ ] Osobnosti - ČR
-* [ ] Geografie - svět
-* [ ] Kulturní epocha
-* [ ] Mezinárodní organizace
-* [ ] Kultura - hudba
+* [x] Cizojazyčná ukázka - písmo
+* [x] Pojmy, cizí slova
+* [x] Latinské přísloví
+* [x] Kultura - výtvarné umění
+* [x] Geografie - Evropa
+* [x] Dějinné události
+* [x] Náboženství
+* [x] Osobnosti - svět
+* [x] Osobnosti - ČR
+* [x] Geografie - svět
+* [x] Kulturní epocha
+* [x] Mezinárodní organizace
+* [x] Kultura - hudba
 
 
 ### http://www.muni.cz/tsp/symbolicke
 Symbolické myšlení
 
-* [ ] Kódování číslic
-* [ ] Posloupnost symbolů
-* [ ] Symboly s vlastnostmi
-* [ ] Porovnávání objektů
-* [ ] Dešifrování symbolů
-* [ ] Vztahy mezi symboly
-* [ ] Šachovnice
-* [ ] Nové počítání
-* [ ] Hodnota výrazu
-* [ ] Symbolický kód
+* [x] Kódování číslic
+* [x] Posloupnost symbolů
+* [x] Symboly s vlastnostmi
+* [x] Porovnávání objektů
+* [x] Dešifrování symbolů
+* [x] Vztahy mezi symboly
+* [x] Šachovnice
+* [x] Nové počítání
+* [x] Hodnota výrazu
+* [x] Symbolický kód
 
 
 ### http://www.muni.cz/tsp/analyticke
@@ -115,42 +115,42 @@ Analytické myšlení
 ### http://www.muni.cz/tsp/kriticke
 Kritické myšlení
 
-* [ ] Přírodověda – živá příroda
-* [ ] Přírodověda – neživá příroda 1
-* [ ] Přírodověda – neživá příroda 2
-* [ ] Vědy o Zemi 1
-* [ ] Vědy o Zemi 2
-* [ ] Technika
-* [ ] Lidský organismus, zdraví
-* [ ] Interpretace předpisů
-* [ ] Orientace
-* [ ] Věda v umění a sportu
-* [ ] Člověk a informace 1
-* [ ] Člověk a informace 2
-* [ ] Člověk a volný čas 1
-* [ ] Člověk a volný čas 2
+* [x] Přírodověda – živá příroda
+* [x] Přírodověda – neživá příroda 1
+* [x] Přírodověda – neživá příroda 2
+* [x] Vědy o Zemi 1
+* [x] Vědy o Zemi 2
+* [x] Technika
+* [x] Lidský organismus, zdraví
+* [x] Interpretace předpisů
+* [x] Orientace
+* [x] Věda v umění a sportu
+* [x] Člověk a informace 1
+* [x] Člověk a informace 2
+* [x] Člověk a volný čas 1
+* [x] Člověk a volný čas 2
 
 
 ### http://www.muni.cz/tsp/prostorove
 Prostorová představivost
 
-* [ ] Kvantifikace plochy
-* [ ] Lešení
-* [ ] Šachovnice
-* [ ] Klíč 1
-* [ ] Krychle 1
-* [ ] Panorama města
-* [ ] Dětská sedačka
-* [ ] Kostka
-* [ ] Papíroví draci
-* [ ] Vrstvy
-* [ ] Krychle 2
-* [ ] 3D objekt
-* [ ] Klíč 2
-* [ ] Karta
-* [ ] Vesnice
-* [ ] Krychle 3
-* [ ] Vrstevnice
+* [x] Kvantifikace plochy
+* [x] Lešení
+* [x] Šachovnice
+* [x] Klíč 1
+* [x] Krychle 1
+* [x] Panorama města
+* [x] Dětská sedačka
+* [x] Kostka
+* [x] Papíroví draci
+* [x] Vrstvy
+* [x] Krychle 2
+* [x] 3D objekt
+* [x] Klíč 2
+* [x] Karta
+* [x] Vesnice
+* [x] Krychle 3
+* [x] Vrstevnice
 * [ ] Dlaždice
 * [ ] Rotace desky
 
@@ -158,14 +158,14 @@ Prostorová představivost
 ### http://www.muni.cz/tsp/verbalni
 Verbální myšlení
 
-* [ ] Skládání slov
-* [ ] Dokonavost a nedokonavost
-* [ ] Kvantifikátory
-* [ ] Slovesné rody a významy
-* [ ] Významové vztahy
-* [ ] Víceznačnosti 1
-* [ ] Víceznačnosti 2
-* [ ] Pravdivost vzhledem k významu
+* [x] Skládání slov
+* [x] Dokonavost a nedokonavost
+* [x] Kvantifikátory
+* [x] Slovesné rody a významy
+* [x] Významové vztahy
+* [x] Víceznačnosti 1
+* [x] Víceznačnosti 2
+* [x] Pravdivost vzhledem k významu
 
 
 ## http://is.muni.cz/prihlaska/faq.pl

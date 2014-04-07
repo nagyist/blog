@@ -40,12 +40,12 @@ Numerické myšlení
 * [x] Šifra
 * [x] Řetězec rovnic
 * [x] Propletené řady
-* [ ] Symboly v rovnicích
+* [x] Symboly v rovnicích
 * [x] Aplikace definic I.
-* [ ] Aplikace definic II.
-* [ ] Porovnávání
-* [ ] Celek a části
-* [ ] Posloupnost
+* [x] Aplikace definic II.
+* [x] Porovnávání
+* [x] Celek a části
+* [x] Posloupnost
 
 ### http://www.muni.cz/tsp/kulturni
 Kulturní přehled
@@ -68,16 +68,16 @@ Kulturní přehled
 ### http://www.muni.cz/tsp/symbolicke
 Symbolické myšlení
 
-* [ ] Kódování číslic
-* [ ] Posloupnost symbolů
-* [ ] Symboly s vlastnostmi
-* [ ] Porovnávání objektů
-* [ ] Dešifrování symbolů
-* [ ] Vztahy mezi symboly
-* [ ] Šachovnice
-* [ ] Nové počítání
-* [ ] Hodnota výrazu
-* [ ] Symbolický kód
+* [x] Kódování číslic
+* [x] Posloupnost symbolů
+* [x] Symboly s vlastnostmi
+* [x] Porovnávání objektů
+* [x] Dešifrování symbolů
+* [x] Vztahy mezi symboly
+* [x] Šachovnice
+* [x] Nové počítání
+* [x] Hodnota výrazu
+* [x] Symbolický kód
 
 
 ### http://www.muni.cz/tsp/analyticke
@@ -134,23 +134,23 @@ Kritické myšlení
 ### http://www.muni.cz/tsp/prostorove
 Prostorová představivost
 
-* [ ] Kvantifikace plochy
-* [ ] Lešení
-* [ ] Šachovnice
-* [ ] Klíč 1
-* [ ] Krychle 1
-* [ ] Panorama města
-* [ ] Dětská sedačka
-* [ ] Kostka
-* [ ] Papíroví draci
-* [ ] Vrstvy
-* [ ] Krychle 2
-* [ ] 3D objekt
-* [ ] Klíč 2
-* [ ] Karta
-* [ ] Vesnice
-* [ ] Krychle 3
-* [ ] Vrstevnice
+* [x] Kvantifikace plochy
+* [x] Lešení
+* [x] Šachovnice
+* [x] Klíč 1
+* [x] Krychle 1
+* [x] Panorama města
+* [x] Dětská sedačka
+* [x] Kostka
+* [x] Papíroví draci
+* [x] Vrstvy
+* [x] Krychle 2
+* [x] 3D objekt
+* [x] Klíč 2
+* [x] Karta
+* [x] Vesnice
+* [x] Krychle 3
+* [x] Vrstevnice
 * [ ] Dlaždice
 * [ ] Rotace desky
 
