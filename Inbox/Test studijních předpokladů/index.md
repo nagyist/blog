@@ -83,33 +83,33 @@ Symbolické myšlení
 ### http://www.muni.cz/tsp/analyticke
 Analytické myšlení
 
-* [ ] Množiny – kombinace
-* [ ] Množiny – počty prvků
-* [ ] Poctivci a padouši
-* [ ] Zebra
-* [ ] Pravidlo
-* [ ] Uspořádání
-* [ ] Porovnávání
-* [ ] Složité formulace
-* [ ] Definice
-* [ ] Úvaha o poměru, průměru, rozdílu...
-* [ ] Nápisy
-* [ ] Úsudky 1
-* [ ] Úsudky 2
-* [ ] Úsudky 3
-* [ ] Úsudky 4
-* [ ] Úsudky 5
-* [ ] Úsudky 6
-* [ ] Úsudky 7
-* [ ] Úsudky 8
-* [ ] Úsudky 9
-* [ ] Úsudky 10
-* [ ] Úsudky 11
-* [ ] Úsudky 12
-* [ ] Úsudky 13
-* [ ] Úsudky 14
-* [ ] Úsudky 15
-* [ ] Úsudky 16
+* [x] Množiny – kombinace
+* [x] Množiny – počty prvků
+* [x] Poctivci a padouši
+* [x] Zebra
+* [x] Pravidlo
+* [x] Uspořádání
+* [x] Porovnávání
+* [x] Složité formulace
+* [x] Definice
+* [x] Úvaha o poměru, průměru, rozdílu...
+* [x] Nápisy
+* [x] Úsudky 1
+* [x] Úsudky 2
+* [x] Úsudky 3
+* [x] Úsudky 4
+* [x] Úsudky 5
+* [x] Úsudky 6
+* [x] Úsudky 7
+* [x] Úsudky 8
+* [x] Úsudky 9
+* [x] Úsudky 10
+* [x] Úsudky 11
+* [x] Úsudky 12
+* [x] Úsudky 13
+* [x] Úsudky 14
+* [x] Úsudky 15
+* [x] Úsudky 16
 
 
 ### http://www.muni.cz/tsp/kriticke
