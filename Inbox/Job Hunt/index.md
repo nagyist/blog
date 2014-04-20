@@ -29,6 +29,7 @@
 * Anynymous function – co? proč? obalování kódu
 * ‘use strict’
 * Utility library – co? proč jsou v JS potřeba?
+* proč `return this` na konci method
 
 ### Coding
 * HTML5 forms
