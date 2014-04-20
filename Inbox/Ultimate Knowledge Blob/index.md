@@ -1,3 +1,64 @@
+
+Work on things you really care about.
+
+Don't take yourself too seriously.
+
+Keep growing. And learning from the people around you.
+
+Don't be an asshole.
+
+People will disappoint you. Forgive them and move on. Or leave. Hate takes so much more energy out of you.
+
+
+Willpower is not enough – will power is exhaustible, leads to ego depletion.
+
+Do not just Try Harder – Try smarter.
+
+Get started – biggest barrier to productivity.
+
+Time–management – do not practise more, but more deliberately.
+
+Do not rely on willpower, rely on schedule and planning.
+
+Give yourself a deadline.
+
+Measure and document progress.
+
+Life/year/three-month/month/day goals – review them once a time.
+
+Goals: measurable and attainable
+
+Stop thinking and talking about the things you're "going to do" and write it down.
+
+Write it/wireframe it/share it/prototype it
+
+Help awesome people do awesome shit.
+
+• 3 things I want to do
+• 3 things I want to be
+• 3 things I want to have
+
+
+Work with smart people
+• You learn more.
+• important, critical feedback
+• Synergy
+• pushing yourself to be smarter and to present yourself well everyday.
+
+Break the ice with the words possible idea and get discussion started:
+
+Get most work done early in the morning and late in the evening.
+
+Do not become slave of system - relax sometime.
+
+
+Write
+* Reflect on your life and changes
+* Clarifies your thinking
+* Makes you think from the perspective of the audience
+* Teaches you communicating & persuading skills
+
+
 Best way to learn programming – pair with better (and even worse).
 
 Best way to learn programming – Join community.

@@ -21,6 +21,7 @@
 
 ### Javascript
 * Closure – co? využití? v jiných jazycích?
+* Asynchronost
 * Promise / callback – co? výhody a nevýhody obou přístupů? Rozdíl implementací.
 * AMD / UMD – co? důvody? reálné zkušenosti?
 * this – co? jak měnit? kdy nastávají problémy?
@@ -39,6 +40,7 @@
 * Lze v rámci POST požadavku zaslat i GET
 * Abstraktní třídu? Interface?
 * MIME type?
+* DOM
 
 
 ### Web svět
