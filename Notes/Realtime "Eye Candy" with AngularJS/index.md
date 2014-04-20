@@ -1,15 +1,10 @@
 Realtime "Eye Candy" with AngularJS - YouTube 
 
-[https://www.youtube.com/watch?v=8uj7YSqby7s](https://www.youtube.com/watch?v=8uj7YSqby7s)
-
-  
-
+<https://www.youtube.com/watch?v=8uj7YSqby7s>
 
 ![](assets/2db6aa6eb8257656.png)  
 
-
 ![](assets/ed5ddeff144a26ee.png)  
-
 
 ![](assets/3cee4896a5f0fbbc.png)
 
