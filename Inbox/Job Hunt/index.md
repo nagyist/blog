@@ -30,19 +30,22 @@
 * ‘use strict’
 * Utility library – co? proč jsou v JS potřeba?
 * proč `return this` na konci method
+* ES6 (classes, default + rest + spread, modules, promises)
 
 ### Coding
 * HTML5 forms
-* CSS – box-model, clearfix, vertical-align, grid, absolutní pozicování, media queries
+* CSS properties – box-model, clearfix, vertical-align, grid, absolutní pozicování,
+* Media queries
 * localStorage
-
 
 ### Web
 * Lze v rámci POST požadavku zaslat i GET
 * Abstraktní třídu? Interface?
 * MIME type?
 * DOM
-
+* CORS
+* HTTP Request life-cycle
+* Cookies
 
 ### Web svět
 * Kolaborace – Trello, Jira, GitHub
