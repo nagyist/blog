@@ -317,6 +317,10 @@ FirefoxAurora
 `download from AppStore`
 Enable iCloud
 
+
+#### Cakebrew
+http://www.cakebrew.com
+
 #### Caffeine
 `AppStore`
 #### Air Video
