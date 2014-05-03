@@ -151,8 +151,8 @@ Prostorová představivost
 * [x] Vesnice
 * [x] Krychle 3
 * [x] Vrstevnice
-* [ ] Dlaždice
-* [ ] Rotace desky
+* [x] Dlaždice
+* [x] Rotace desky
 
 
 ### http://www.muni.cz/tsp/verbalni
