@@ -46,6 +46,7 @@
 * CORS
 * HTTP Request life-cycle
 * Cookies
+* pushState
 
 ### Web svět
 * Kolaborace – Trello, Jira, GitHub
