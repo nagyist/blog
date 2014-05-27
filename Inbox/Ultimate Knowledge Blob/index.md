@@ -1,3 +1,6 @@
+Focus on the things that we did best and outsource the rest.
+
+Simple design is often simple for the user but complicated for the creator.
 
 Work on things you really care about.
 
