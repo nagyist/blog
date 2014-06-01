@@ -1,4 +1,12 @@
-# Current HW Setup
+## TODO:
+
+* http://xquartz.macosforge.org/landing/
+
+
+
+
+
+## Current HW Setup
 ```
 MacBook Pro, 17-inch, Early 2011
 Processor: Intel Core i7 CPU 2720QM, Sandy Bridge, 2.2 GHz, 4 cores
@@ -26,17 +34,23 @@ Serial Number: C02FD47ZDF93
 ~/Pictures          -> ~/Dropbox/Pictures
 ```
 
-# Prepare & Backup
 
-#### Backup locally & remotely
-Perform TimeMachine & Backbaze backup.
+## Backup
+
+#### Local: TimeMachine
+
+#### Cloud: Backbaze
 
 
-#### Prepare boot USB
+
+## Boot USB
+
 1. Download OS X from AppStore
 2. Use http://liondiskmaker.com to prepare bootable USB
 
-# Setup OS X
+
+
+## Setup OS X
 
 ## 1. Core tools & apps that most other apps depends on
 
