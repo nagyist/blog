@@ -1,15 +1,16 @@
 # Don't Be A Dick ~ Phil Plait
-<http://www.youtube.com/watch?v=FrFRbGjUtJk
+
+<http://www.youtube.com/watch?v=FrFRbGjUtJk>
 
 ![](assets/51e4271d713966acd3ba8e3f93dbc411.png)  
 
 Like breaking conventions.
 
-Speak carefully to not to be misinterpreted.
+Speak carefully to not be misinterpreted.
 
-What it take to be active scepticism?
+What it take to be **active scepticism**?
 
-Rely on merits of arguments. Evidence based reasoning.
+Rely on merits of arguments – evidence based reasoning.
 
 How many of you no longer believe in something because somebody called you a stupid retard or similar insult? We become reasonable gradually.
 
@@ -46,4 +47,3 @@ Anger seeks a victim.
 We do not need warriors, we need diplomats.
 
 Always ask yourself, what your goal is. Is this going to help / or is it just to make me feel better.
-
