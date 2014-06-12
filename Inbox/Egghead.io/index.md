@@ -1,4 +1,18 @@
 
+## Using ngModel in Custom Directives - AngularJS Video Tutorial #free @eggheadio
+https://egghead.io/lessons/angularjs-using-ngmodel-in-custom-directives
+
+
+## JavaScript Function Scope and $scope - AngularJS Video Tutorial #pro @eggheadio
+https://egghead.io/lessons/javascript-function-scope-and-scope
+
+Public interface for HTML.
+
+
+## Using $anchorScroll - AngularJS Video Tutorial #pro @eggheadio
+https://egghead.io/lessons/using-anchorscroll
+
+
 
 ## 92. WebStorm Video Tutorial: Tips & Tricks
 
