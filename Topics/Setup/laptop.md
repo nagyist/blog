@@ -3,9 +3,6 @@
 * http://xquartz.macosforge.org/landing/
 
 
-
-
-
 ## Current HW Setup
 ```
 MacBook Pro, 17-inch, Early 2011
@@ -35,218 +32,11 @@ Serial Number: C02FD47ZDF93
 ```
 
 
-## Backup
-
-#### Local: TimeMachine
-
-#### Cloud: Backbaze
-
-
-
-## Boot USB
-
-1. Download OS X from AppStore
-2. Use http://liondiskmaker.com to prepare bootable USB
-
-
-
-## Setup OS X
-
-## 1. Core tools & apps that most other apps depends on
-
-#### XCode
-Download and install **Xcode** from Appstore.
-Install **GCC** in XCode preferences. (not needed in newest version)
-
-#### Homebrew & brew-cask
-
-``` bash
-# copy-paste this command from http://brew.sh/
-ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)"
-brew doctor
-# copy-paste this command from https://github.com/phinze/homebrew-cask
-brew tap phinze/homebrew-cask && brew install brew-cask
-```
-
-## 2. Dropbox (needed for syncing of succeeding apps)
-``` bash
-brew cask install dropbox
-```
-**!!! Wait for Dropbox to completely sync before next steps !!!**
-
-## 3. Sync Home folder
-``` bash
-ln -s ~/Dropbox/Sync/home/.* $HOME
-# Sync .zshrc is covered later, after intalling oh-my-zsh
-sudo chmod 0600 ~/.ssh/*
-sudo chmod 0644 ~/.ssh/*.pub
-sudo mv ~/Desktop ~/Desktop.REMOVE && ln -s $HOME/Dropbox/Desktop $HOME
-sudo mv ~/Documents ~/Documents.REMOVE && ln -s $HOME/Dropbox/Documents $HOME
-sudo mv ~/Pictures ~/Pictures.REMOVE && ln -s $HOME/Dropbox/Pictures $HOME
-```
-
-## 4. OS X Preferences
-
-``` bash
- # Use column view in all Finder windows by default
-defaults write com.apple.Finder FXPreferredViewStyle -string "clmv"
-
- # Show the ~/Library folder.
-chflags nohidden ~/Library
-
- # Disable the “Are you sure you want to open this application?” dialog
-defaults write com.apple.LaunchServices LSQuarantine -bool false
-
- # Menu bar: disable transparency
-defaults write NSGlobalDomain AppleEnableMenuBarTransparency -bool false
-
- # Expand save panel by default
-defaults write NSGlobalDomain NSNavPanelExpandedStateForSaveMode -bool true
-
- # Expand print panel by default
-defaults write NSGlobalDomain PMPrintingExpandedStateForPrint -bool true
-
- # Save to disk (not to iCloud) by default
-defaults write NSGlobalDomain NSDocumentSaveNewDocumentsToCloud -bool false
-
- # Disable Resume system-wide
-defaults write NSGlobalDomain NSQuitAlwaysKeepsWindows -bool false
-
- # Disable auto-correct
-defaults write NSGlobalDomain NSAutomaticSpellingCorrectionEnabled -bool false
-
- # Allow quitting Finder via ⌘ + Q; doing so will also hide desktop icons
-defaults write com.apple.finder QuitMenuItem -bool true
-
- # Show status bar in Finder
-defaults write com.apple.finder ShowStatusBar -bool true
-
- # Enable full keyboard access for all controls
-defaults write NSGlobalDomain AppleKeyboardUIMode -int 3
-
- # Save screenshots to the desktop
-defaults write com.apple.screencapture location -string "$HOME/Desktop"
-
- # Disable shadow in screenshots
-defaults write com.apple.screencapture disable-shadow -bool true
-
- # Finder: show hidden files by default
-defaults write com.apple.Finder AppleShowAllFiles -bool true
-
- # Finder: show all filename extensions
-defaults write NSGlobalDomain AppleShowAllExtensions -bool true
-
- # Finder: allow text selection in Quick Look
-defaults write com.apple.finder QLEnableTextSelection -bool true
-
- # When performing a search, search the current folder by default
-defaults write com.apple.finder FXDefaultSearchScope -string "SCcf"
-
- # Avoid creating .DS_Store files on network volumes
-defaults write com.apple.desktopservices DSDontWriteNetworkStores -bool true
-
- # Disable the warning before emptying the Trash
-defaults write com.apple.finder WarnOnEmptyTrash -bool false
-
- # Set the icon size of Dock items to 36 pixels
-defaults write com.apple.dock tilesize -int 36
-
- # Trackpad: enable tap to click for this user and for the login screen
-defaults write com.apple.driver.AppleBluetoothMultitouch.trackpad Clicking -bool true
-defaults -currentHost write NSGlobalDomain com.apple.mouse.tapBehavior -int 1
-defaults write NSGlobalDomain com.apple.mouse.tapBehavior -int 1
-
- # Number of recent items: 30 //TODO
- # Dock: Lock Dock Content //TODO
- # Dock: Lock icon size //TODO
- # Disable Dashboard // TODO
- # Disable CapsLock // TODO
- # F keys without modifier // TODO
- # Tap to click // TODO
-```
-
-## 5. System utilities & Drivers
-*Restart after installing all three to avoid multiple restarts*
-**PCKeyboardHack** `http://pqrs.org/` Remap CapsLock to F19 (Keycode 80)
-**KeyRemap4MacBook** `http://pqrs.org/` Remap Eject key to F13, disable menubar icon
-**NoEjectDelay** `http://pqrs.org/`
-
-Wacom Utility
-Sony Walkman NWZ-W273 Content Transfer [Manual download](http://esupport.sony.com/US/p/swu-download.pl?mdl=NWZW273&upd_id=9129&os_group_id=3) 
-
-## 6. General tools
-
-#### Oh-my-zsh
-``` bash
-curl -L https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh | sh
-```
-
-Replace custom folder with my synced from Dropbox:
-`rm -rf "$HOME/.oh-my-zsh/custom" && ln -s "$HOME/Dropbox/Sync/zsh-custom" "$HOME/.oh-my-zsh/custom"`
-
-Replace .zshrc with my synced from Dropbox:
-`rm -f "$HOME/.zshrc" && ln -s "$HOME/Dropbox/Sync/home/.zshrc" $HOME`
-
-#### Git
-``` bash
-brew install git
-```
-#### Rbenv + Rubies
-``` bash
-git clone git://github.com/sstephenson/rbenv.git .rbenv
-git clone git://github.comsstephenson/ruby-build.git ~/.rbenv/plugins/ruby-build
-rbenv install 1.9.3-p448
-rbenv install 2.0.0-p247
-rbenv global 2.0.0-p247
-```
-#### Node
-``` bash
-brew install node
-
-npm install -g bower
-npm install -g grunt
-npm install -g grunt-cli 
-npm install -g node-inspector
-````
-#### Heroku toolbelt
-``` bash
-brew cask install heroku-toolbelt 
-```
-
-#### Shell extensions
-**tree** `brew install tree`
-#### Pry
-`gem install pry`
-#### Cucumber
-`gem install cucumber`
-#### Rails
-`gem install rails`
-#### Sinatra
-`gem install sinatra`
-#### Rspec
-*Testing tool for Ruby*
-`gem install rspec`
-#### Slim
-*Fast, Lightweight Template Engine for Ruby.*
-`gem install slim`
-
-#### Other utils
-# gem install html2slim
-# gem install terminal-notifier
-# gem install watchr
-# gem install thin
-# gem install powder
-brew install imagemagick
-brew install phantomjs
-
-**rbenv rehash**
-
 ## 7. Apps
 
 ### 7.1. Important apps
 #### 1Password
 `brew cask install one-password`
-Pref: General: Data file from Dropbox
 Pref: Security: Disable Auto-Lock
 Pref: Security: Enable automatic unlock
 Pref: Browsers: Install Browsers Extensions (Safari, Chrome, Firefox)
@@ -254,41 +44,12 @@ Pref: Logins: Disable automatically submitting after filling
 Pref: Updates: Enable Include Beta Versions
 #### Alfred
 `brew cask install alfred`
-Activate Powerpack
 Pref: Advanced: Syncing from ~/Dropbox/Alfred
 Pref: Clipboard history persistent for 1 month
 #### HyperSwitch
 `brew cask install hyperSwitch
 Pref: [x] Run HyperSwitch in the background
 Pref: [x] Use shift to cycle backwards
-#### TextMate
-`brew cask install textmate`
-+ CoffeeScript (in-app)
-+ CSS (in-app)
-+ Cucumber git clone https://github.com/cucumber/cucumber-tmbundle ~/Downloads/cucumber.tmbundle
-+ Diff (in-app)
-+ DashMate git clone https://github.com/ram-nadella/DashMate.tmbundle ~/Downloads/DashMate.tmbundle
-+ Gist (in-app)
-+ Git (in-app)
-+ iTerm (in-app)
-+ JavaScript (in-app)
-+ JavaScript jQuery (in-app)
-+ Javascript Tools git clone https://github.com/subtleGradient/javascript-tools.tmbundle ~/Downloads/javascript-tools.tmbundle
-+ JSON (in-app)
-+ LaTeX (in-app)
-+ Markdown (in-app)
-+ Processing (in-app)
-+ R (in-app)
-+ Regular Expressions (in-app)
-+ RSpec (in-app)
-+ Ruby (in-app)
-+ Ruby on Rails (in-app)
-+ Ruby Shoulda (in-app)
-+ Ruby Slim (in-app)
-+ Marked http://support.markedapp.com/kb/how-to-tips-and-tricks/marked-bonus-pack-scripts-commands-and-bundles
-+ SCSS (in-app)
-+ YAML (in-app)
-+ Emmet git clone https://github.com/emmetio/Emmet.tmplugin  ~/Downloads/Emmet.tmplugin
 #### The Unarchiver
 `Download from AppStore`
 Pref: After successfully extracting an archive [x] Open the extracted folder [x] Move the archive to the trash
@@ -505,55 +266,6 @@ ln -s "$HOME/Dropbox/Sync/Lightroom Settings" "$HOME/Library/Application Support
 `download manually`
 
 ### 9. Finish
-
-#### Customize Dock
-``` bash
-defaults write com.apple.dock persistent-apps -array
-for app in \
-  "/Applications/Finder.app" \
-  "/Applications/Calendar.app" \
-  "/Applications/Safari.app" \
-  "/Applications/Day One.app" \
-  "/Applications/MoneyWiz.app" \
-  "/Applications/Movist.app" \
-  "/Applications/Mail.app" \
-  "/Applications/Reminders.app" \
-  "/Applications/Preview.app" \
-  "/Applications/Things.app" \
-  "/Applications/iTunes.app" \
-  "/Applications/Ulysses.app" \
-  "/opt/homebrew-cask/Caskroom/transmission/2.80/Transmission.app" \
-  "spacer" \
-  "/Applications/FontExplorer X Pro.app" \
-  "/Applications/Adobe Bridge CS6/Adobe Bridge CS6.app" \
-  "/Applications/Adobe Photoshop Lightroom 5.app" \
-  "/Applications/Adobe Photoshop CS6/Adobe Photoshop CS6.app" \
-  "/Applications/Adobe Illustrator CS6/Adobe Illustrator.app" \
-  "/Applications/Adobe Premiere Pro CS6/Adobe Premiere Pro CS6.app" \
-  "/Applications/Adobe After Effects CS6/Adobe After Effects CS6.app" \
-  "/Applications/Adobe Audition CS6/Adobe Audition CS6.app" \
-  "/Applications/Adobe InDesign CS6/Adobe InDesign CS6.app" \
-  "/Applications/MAXON/CINEMA 4D R14/CINEMA 4D.app" \
-  "spacer" \
-  "/opt/homebrew-cask/Caskroom/textmate/latest/TextMate.app" \
-  "/opt/homebrew-cask/Caskroom/sourcetree/1.6.2.2/SourceTree.app" \
-  "/Applications/Transmit.app" \
-  "/Applications/Automator.app" \
-  "/opt/homebrew-cask/Caskroom/iterm2/1.0.0/iTerm.app" \
-  "spacer" \
-  "/Applications/App Store.app" \
-  "/Applications/System Preferences.app" \
-  "spacer" \
-  ; do
-  if [ "$app" == "spacer" ]; then
-    defaults write com.apple.dock persistent-apps -array-add '{tile-data={}; tile-type="spacer-tile";}'
-  else
-    defaults write com.apple.dock persistent-apps -array-add "<dict><key>tile-data</key><dict><key>file-data</key><dict><key>_CFURLString</key><string>$app</string><key>_CFURLStringType</key><integer>0</integer></dict></dict></dict>"
-  fi
-done
-
-killall Dock
-```
 
 #### Open With Defaults
 

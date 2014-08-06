@@ -6,6 +6,7 @@
 * Motivace pro novou práci.
 * Důvody pro změnu práce.
 
+
 ### Programování
 * MVC, MVVM – co? proč? zkušenosti?
 * DI, Observer, Singleton – co? využítí v Javascriptu
@@ -19,11 +20,12 @@
 * CSRF a XSS
 * DRY a KISS
 
+
 ### Javascript
-* Closure – co? využití? v jiných jazycích?
+* Closure – co? využití? v jiných jazycích? ✔ 
 * Asynchronost
-* Promise / callback – co? výhody a nevýhody obou přístupů? Rozdíl implementací.
-* AMD / UMD – co? důvody? reálné zkušenosti?
+* Promise / callback – co? výhody a nevýhody obou přístupů? Rozdíl implementací. ✔ 
+* AMD / UMD – co? důvody? reálné zkušenosti? 
 * this – co? jak měnit? kdy nastávají problémy?
 * Inheritance, prototype chain
 * Anynymous function – co? proč? obalování kódu
@@ -37,6 +39,7 @@
 * CSS properties – box-model, clearfix, vertical-align, grid, absolutní pozicování,
 * Media queries
 * localStorage
+
 
 ### Web
 * Lze v rámci POST požadavku zaslat i GET
@@ -65,9 +68,11 @@
 * Jaký editor používáte a proč jste si ho vybrali
 * Vyzkoušet zadání našeho skutečného problému
 
+
 ### Ukázka práce s DevTools
 * Analýza našeho API přes Network panel, breakpoint na URL
 * Zjistit jaké používáme knihovny.
+
 
 ### Osobnost
 * Čas na práci – koníčky, víkendy, prázdniny, studium.
